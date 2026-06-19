@@ -1,0 +1,6 @@
+{
+  "name": "AI Commerce OS Backend Core",
+  "description": "A high-fidelity framework containing autonomous AI engines for planning, reasoning, decision-making, and memory in e-commerce workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
